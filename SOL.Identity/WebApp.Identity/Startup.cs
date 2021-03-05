@@ -26,13 +26,11 @@ namespace WebApp.Identity
         {
             services.Configure<CookiePolicyOptions>(options =>
                 {
-                    options.CheckConsentNeeded = Context => true;
+                    options.CheckConsentNeeded = context => true;
                     options.MinimumSameSitePolicy = SameSiteMode.None;
                 });
 
             services.AddMvc().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_2_2);
-
-            services.AddControllersWithViews();
 
             services.AddIdentityCore<MyUser>(options => {  } );
         }
