@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -20,9 +21,20 @@ namespace WebApp.Identity
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
+        [Obsolete]
         public void ConfigureServices(IServiceCollection services)
         {
+            services.Configure<CookiePolicyOptions>(options =>
+                {
+                    options.CheckConsentNeeded = Context => true;
+                    options.MinimumSameSitePolicy = SameSiteMode.None;
+                });
+
+            services.AddMvc().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_2_2);
+
             services.AddControllersWithViews();
+
+            services.AddIdentityCore<MyUser>(options => {  } );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

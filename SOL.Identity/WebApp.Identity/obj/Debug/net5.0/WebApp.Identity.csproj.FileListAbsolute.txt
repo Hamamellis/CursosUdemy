@@ -1,0 +1,12 @@
+C:\GIT - GITHUB\CursosUdemy\SOL.Identity\WebApp.Identity\obj\Debug\net5.0\WebApp.Identity.csprojAssemblyReference.cache
+C:\GIT - GITHUB\CursosUdemy\SOL.Identity\WebApp.Identity\obj\Debug\net5.0\WebApp.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT - GITHUB\CursosUdemy\SOL.Identity\WebApp.Identity\obj\Debug\net5.0\WebApp.Identity.AssemblyInfoInputs.cache
+C:\GIT - GITHUB\CursosUdemy\SOL.Identity\WebApp.Identity\obj\Debug\net5.0\WebApp.Identity.AssemblyInfo.cs
+C:\GIT - GITHUB\CursosUdemy\SOL.Identity\WebApp.Identity\obj\Debug\net5.0\WebApp.Identity.TagHelpers.input.cache
+C:\GIT - GITHUB\CursosUdemy\SOL.Identity\WebApp.Identity\obj\Debug\net5.0\WebApp.Identity.TagHelpers.output.cache
+C:\GIT - GITHUB\CursosUdemy\SOL.Identity\WebApp.Identity\obj\Debug\net5.0\WebApp.Identity.csproj.CoreCompileInputs.cache
+C:\GIT - GITHUB\CursosUdemy\SOL.Identity\WebApp.Identity\obj\Debug\net5.0\WebApp.Identity.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT - GITHUB\CursosUdemy\SOL.Identity\WebApp.Identity\obj\Debug\net5.0\WebApp.Identity.dll
+C:\GIT - GITHUB\CursosUdemy\SOL.Identity\WebApp.Identity\obj\Debug\net5.0\ref\WebApp.Identity.dll
+C:\GIT - GITHUB\CursosUdemy\SOL.Identity\WebApp.Identity\obj\Debug\net5.0\WebApp.Identity.pdb
+C:\GIT - GITHUB\CursosUdemy\SOL.Identity\WebApp.Identity\obj\Debug\net5.0\WebApp.Identity.RazorCoreGenerate.cache

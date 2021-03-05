@@ -9,6 +9,7 @@ using WebApp.Identity.Models;
 
 namespace WebApp.Identity.Controllers
 {
+    [ApiController]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -25,6 +26,15 @@ namespace WebApp.Identity.Controllers
 
         public IActionResult Privacy()
         {
+            return View();
+        }
+
+        public async Task<IActionResult> Register(RegisterModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                return View("Success");
+            }
             return View();
         }
 
