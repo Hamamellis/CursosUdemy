@@ -1,0 +1,12 @@
+C:\GIT - GITHUB\CursosUdemy\WebAppWagner\WebAppWagner\obj\Debug\net5.0\WebAppWagner.csprojAssemblyReference.cache
+C:\GIT - GITHUB\CursosUdemy\WebAppWagner\WebAppWagner\obj\Debug\net5.0\WebAppWagner.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT - GITHUB\CursosUdemy\WebAppWagner\WebAppWagner\obj\Debug\net5.0\WebAppWagner.AssemblyInfoInputs.cache
+C:\GIT - GITHUB\CursosUdemy\WebAppWagner\WebAppWagner\obj\Debug\net5.0\WebAppWagner.AssemblyInfo.cs
+C:\GIT - GITHUB\CursosUdemy\WebAppWagner\WebAppWagner\obj\Debug\net5.0\WebAppWagner.TagHelpers.input.cache
+C:\GIT - GITHUB\CursosUdemy\WebAppWagner\WebAppWagner\obj\Debug\net5.0\WebAppWagner.TagHelpers.output.cache
+C:\GIT - GITHUB\CursosUdemy\WebAppWagner\WebAppWagner\obj\Debug\net5.0\WebAppWagner.csproj.CoreCompileInputs.cache
+C:\GIT - GITHUB\CursosUdemy\WebAppWagner\WebAppWagner\obj\Debug\net5.0\WebAppWagner.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT - GITHUB\CursosUdemy\WebAppWagner\WebAppWagner\obj\Debug\net5.0\WebAppWagner.dll
+C:\GIT - GITHUB\CursosUdemy\WebAppWagner\WebAppWagner\obj\Debug\net5.0\ref\WebAppWagner.dll
+C:\GIT - GITHUB\CursosUdemy\WebAppWagner\WebAppWagner\obj\Debug\net5.0\WebAppWagner.pdb
+C:\GIT - GITHUB\CursosUdemy\WebAppWagner\WebAppWagner\obj\Debug\net5.0\WebAppWagner.RazorCoreGenerate.cache
